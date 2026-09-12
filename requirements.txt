@@ -1,0 +1,6 @@
+python-telegram-bot
+aiohttp
+requests
+edge-tts
+Flask
+httpx
